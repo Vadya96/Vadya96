@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I4k4AxOTG6261vsnvraFG7whfIMj5DUu8VJ3//TUzAOoM+nwt5aPM2ttO9EatdmLjULDKD2esvJXcySOxT/khQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\tests\\ConsoleTest\\ConsoleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Vadya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Vadya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Vadya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
